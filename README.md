@@ -68,8 +68,9 @@ Databases get most of my attention. I design schemas, define relations between t
 
 <br/>
 
-<a href="https://github.com/RizkiHadiono">
-  <img src="https://yourinsights.vercel.app/api/insight?username=RizkiHadiono&theme=github_dark&graph=true&languages=false&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="850" />
+</a>
+  <img src="https://yourinsights.vercel.app/api/insight?username=RizkiHadiono&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&border=true&hide_langs=HTML%2CCSS%2CJupyter%20Notebook%2CSCSS%2CMakefile" alt="RizkiHadiono's GitHub Insights" />
+
 </a>
 
 </div>
