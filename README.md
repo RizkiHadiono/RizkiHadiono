@@ -52,6 +52,7 @@ Databases get most of my attention. I design schemas, define relations between t
 - [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)](https://git-scm.com)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/RizkiHadiono)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)](https://code.visualstudio.com)
+  [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)](https://www.docker.com)
 - [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)](https://www.postman.com)
   [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)](https://www.markdownguide.org)
 - <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Colab" height="30" /></a>
@@ -61,16 +62,13 @@ Databases get most of my attention. I design schemas, define relations between t
 
 <div align="center">
 
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=RizkiHadiono&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" width="850" />
+<a href="https://github.com/RizkiHadiono">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=RizkiHadiono&data=followers,repositories,stars,commits&theme=nautilus" alt="RizkiHadiono's GitHub WidgetBox" width="780" />
 </a>
-
-
 <br/>
 
-</a>
-  <img src="https://yourinsights.vercel.app/api/insight?username=RizkiHadiono&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&border=true&hide_langs=HTML%2CCSS%2CJupyter%20Notebook%2CSCSS%2CMakefile" alt="RizkiHadiono's GitHub Insights" />
-
+<a href="https://github.com/RizkiHadiono">
+  <img src="https://yourinsights.vercel.app/api/insight?username=RizkiHadiono&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&border=true&hide_langs=HTML%2CCSS%2CJupyter%20Notebook%2CSCSS%2CMakefile" alt="RizkiHadiono's GitHub Insights" width="850" />
 </a>
 
 </div>
